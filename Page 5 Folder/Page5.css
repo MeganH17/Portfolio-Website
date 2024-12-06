@@ -1,0 +1,67 @@
+/* General Body Styling */
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: #000; /* Black background */
+    color: #fff; /* White text */
+    text-align: center;
+}
+
+/* Heading Styling */
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    color: yellow; /* Soft white for elegance */
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+/* Content Wrapper for Flex Layout */
+.content-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin: 30px 0;
+}
+
+/* Iframe Styling */
+iframe {
+    border: 2px solid #e6e6e6; /* Thin border for refinement */
+    border-radius: 10px; /* Rounded corners for elegance */
+    box-shadow: 0px 8px 15px rgba(255, 255, 255, 0.1); /* Subtle shadow */
+    width: 600px;
+    height: 600px;
+}
+
+/* Description Styling */
+.description {
+    max-width: 25%;
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #e0e0e0; /* Light grey for readability */
+}
+
+/* Link Styling */
+a {
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #000000; /* White text */
+    background-color:yellow; /* Dark grey button */
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0px 4px 6px rgba(255, 255, 255, 0.1); /* Slight button shadow */
+}
+
+/* Hover Effect for Links */
+a:hover {
+    background-color: #720081; /* Lighter grey on hover */
+    color: #000; /* Black text on hover */
+    box-shadow: 0px 6px 12px rgba(255, 255, 255, 0.2); /* Elevated shadow */
+}
