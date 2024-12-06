@@ -1,0 +1,40 @@
+Your partners: Longren, Richard
+
+In this P5js assignment I made an individual sketch of a sad stuffed rabbit. Then when I combined it with my group mates, I ended up using Richard's buffalo head, Longren's iron man horse body and my own rabbit legs. This body division is quite fun because I can create a unique character with its own story behind it. I think this task is similar to the first task when we have to create an object that belongs to our friend that is missing. However, this task is much more complex because I have to combine my ideas with those of others. The most difficult thing for me was making the buffalo horn with an arc and making the indentations in it one by one with the circle. Overall I really like the end result, and I feel like I've succeeded in creating a character that is funny and expressive.
+
+---------------------------------------------------------------------------------------------------------
+
+Include the sketches and background stories you’ve received: 
+
+(I am sorry for some reason my p5js can't upload new files, so I will attached a drive file for the part 1 sketches of my project and also my teammates)
+
+Drive link: https://drive.google.com/drive/folders/1crCxOJ_nj_g74XpmROFrP9m6ug58gdjo?usp=sharing
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+Original Individual Story:
+
+My character story: This is Lulu, a rabbit puffy that was abandoned by its owner in an old house while they're moving out of the house. Ever since, Lulu has been feeling lonely and wishes she could go back to the past.
+
+Longren's story : The Iron Horse, a horse that accidentally went into Iron Man suit ￼and just activated the boost on the suit for flying and just went flying.
+
+Richard's story : 
+In the mystical Hurnwood forest, Balgrim, a once-powerful guardian with spiraled horns and three all-seeing eyes, was betrayed and cast into exile. Though stripped of most of his powers, he watches over the forest, guiding lost travelers and waiting for the day he’ll reclaim his role as protector.
+
+
+-----------------------------------------------------------------------------------------------------------
+
+A new background story you’re creating based on the collectively assembled information:
+
+Balgrim was once the most powerful guardian over the Hurnwood Forest but is now in exile, a victim of betrayal and a loss of power. Spiraling horns and three all-seeing eyes, which earlier commanded respect from all that laid eyes on him, were dulled now, carrying with them merely a shadow of their former glory. Deep inside, he had a more gentle side-his "Lulu," his vulnerable side-longing for days of warmth and companionship when betrayal had not shattered his trust.
+
+In desperation, he discovered deep in the woods an ancient suit of iron, and merged with it. His power multiplied astronomically, yet the suit was unruly and hard to master. An iron horse, he'd ride, careening headlong through the forest, still trying to balance this feral force against his earlier function of protection.
+
+Torn between the nostalgic Lulu, the exiled guardian Balgrim, and this unbridled force of iron, he kept leading the lost souls deeper into the woods. His quest turned less about the recovery of his powers and more about the balance within himself, so one day he might again bring harmony into the world.
+
+---------------------------------------------------------------------------------------------------------
+Your assignment reflections:
+
+I think from this assignment I slowly understanding how to make things through code. Especially understanding functions, parameter, arguments. I didn't do a lot of them in this assigments, however I get to slowly getting the courage to adding it in. My favorite part of this assignment is making all of the part coming together. I am glad that I get to finish this assignment according to my expectations. 

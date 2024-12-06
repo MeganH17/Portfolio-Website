@@ -1,0 +1,38 @@
+DATA PORTRAIT DESCRIPTION:
+
+This data portrait visualizes my personal habit of yawning throughout a week, giving an artistic representation of how many times I yawn each day. Each day’s data is visualized as a vertical bar within a square, dimly-lit background, which adds to the somber or subdued feeling of yawning. The portrait is centered around an image of a woman yawning, symbolizing the focus of my self-tracking effort. I wanted to capture the everyday, often unconscious act of yawning and present it as data in an artful way, showing how my energy or sleepiness varies over the week.
+
+
+
+INSTRUCTION TO READ THE DATA:
+
+Each bar represents one day of the week from Monday through Sunday, marked with labels along the bottom.
+The numbers on top of the bars indicate the exact counts of yawns on each corresponding day.
+The color gradients and the overlay of rectangles with random heights add a sense of fluctuation, symbolizing the variable nature of energy and alertness that might be affected by mood, workload, or restfulness.
+
+
+DESIGN PROCESS:
+
+Identify the Habit: I chose to track the number of times I yawn each day, because after getting deeper into the semester I noticed that I yawn so many times every single day because of my messy sleep schedule.
+
+Collect Data: Each day, I recorded the count of my yawns, which ranged widely. This information was stored in the yawn and tall arrays.
+
+Determine Visualization Style: I envisioned a bar graph but wanted to add artistic elements, such as overlays and transparency, to reflect the “sleepy” nature of the data.
+
+Coding Structure: I first focused on setting up the background, then layered the yawning bar chart, and added the yawning woman image give a representation of my tiredness everyday. Moreover I also thought that 1 yawn could effect many people to yawn too, therefore I imagine people that look into this chart to yawn together while observing it.
+
+Position Days & Numbers: I wanted viewers to see each day clearly, so I spaced out the days horizontally. The numbers were scattered around the chart to give it a more dynamic, informal look.
+
+Polish and Testing: I experimented with the opacity and random heights within bars to add a “flickering” effect, mimicking how energy can fluctuate over time.
+
+
+REFLECTION:
+
+Through this assignment, I learned that yawning is surprisingly varied, especially when influenced by sleep patterns and daily activities. Self-tracking made me more aware of my body’s responses and led me to think about how unconscious habits like yawning might reveal larger trends in my mood or energy levels.
+
+In the process of visualizing this data, I gained a more insightful perspective on my sleep and alertness patterns. However, the data visualization sometimes felt limiting since it captured just one dimension of my tiredness without explaining the cause (like a poor night’s sleep). The abstract design also might not communicate the precise data clearly to all viewers, which made me realize the balance needed between artistic representation and readability in data visualization.
+
+
+
+
+
