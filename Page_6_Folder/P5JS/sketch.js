@@ -12,7 +12,7 @@ function setup() {
   createCanvas(600, 600).parent("image-container");
 
  //upload image woman yawning
- img = loadImage('woman-yawning.jpg')
+ img = loadImage('P5JS/woman-yawning.jpg')
 }
 
 function draw() {

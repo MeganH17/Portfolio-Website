@@ -1,5 +1,16 @@
+// function setup() {
+//   createCanvas(400, 400);
+// }
+
+// function draw() {
+//   background(220);
+
+//   circle(50, 50, 25);
+// }
+
+
 // let enemyX;
-// let enemyY;
+// let enemyY;  
 // let bulletX;
 // let bulletY;
 let canClick;
@@ -35,22 +46,22 @@ let song;
 let song2;
 
 function preload() {
-  c1 = loadImage("1.png");
-  c2 = loadImage("2.png");
-  c3 = loadImage("3.png");
-  c4 = loadImage("4.png");
-  c5 = loadImage("5.png");
-  bc = loadImage("portfolio.png");
-  sb = loadImage("portfolio (1).png");
-  fl = loadImage("background.jpg");
-  ws = loadImage("9.png");
-  ls = loadImage("8.png");
-  mainCharacter = loadImage("kucing.PNG");
-  enemyImg = loadImage("anjing.png");
+  c1 = loadImage("P5JS/1.png");
+  c2 = loadImage("P5JS/2.png");
+  c3 = loadImage("P5JS/3.png");
+  c4 = loadImage("P5JS/4.png");
+  c5 = loadImage("P5JS/5.png");
+  bc = loadImage("P5JS/portfolio.png");
+  sb = loadImage("P5JS/portfolio (1).png");
+  fl = loadImage("P5JS/background.jpg");
+  ws = loadImage("P5JS/9.png");
+  ls = loadImage("P5JS/8.png");
+  mainCharacter = loadImage("P5JS/kucing.PNG");
+  enemyImg = loadImage("P5JS/anjing.png");
   
   
-  song = loadSound('excuse-me-cat-150613.mp3');
-  song2 = loadSound('action-epic-cinematic-victory-7195.mp3');
+  song = loadSound('P5JS/excuse-me-cat-150613.mp3');
+  song2 = loadSound('P5JS/action-epic-cinematic-victory-7195.mp3');
 }
 
 
