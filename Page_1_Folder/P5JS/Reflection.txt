@@ -1,0 +1,8 @@
+My partner’s name - Longren
+The object description I received from Longren: 
+“I lost a black bracelet with ying and yang beads in it while I was moving out”
+
+Reflection:
+This assignment taught me a lot about the basics of creating code that can form a simple image. I am thrilled to be able to get a description of Longren (my partner) that is unique and detailed enough so that I can learn a lot from it. Initially, I had 2 ideas to illustrate the description. The first interpretation is to make a bracelet with almost all black beads and one ying and yang bead, or the second, is a bracelet where all the beads are ying and yang. In the end, I chose the first option because I found it to be more interesting. 
+When I code, I feel challenged to create something interesting. Finally, I decided to create a gradient behind the object. Then I focused more on how to make yin and yang beads. The final stage is to make the black beads that form the bracelet one by one. 
+At the end of this process, I showed my project to my partner, Longren, and it turned out that my description was correct and followed his wishes.

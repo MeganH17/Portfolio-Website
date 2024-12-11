@@ -1,0 +1,75 @@
+Megan Harun
+
+
+PROPOSAL: 
+Shooter Cat is an action-packed adventure where players control Ninja Cat, a stealthy hero on a mission to reclaim stolen treasure from the notorious Dog Clan. Dressed in a sleek black suit with glowing green eyes and armed with precision skills, Ninja Cat navigates the shadows, shooting enemies and evading guards across the Dog Clan’s stronghold. The journey begins with a short comic that introduces the peaceful cat village now under threat. Players dive into stealth combat, maneuvering Ninja Cat through narrow alleys and dodging guard dogs in a setting full of obstacles and challenges. With a mix of parkour-like agility and expert shooting, players aim to reach a celebratory ending back in the village.
+
+
+*Game: Shooter Cat*
+
+Character: Ninja Cat
+- Appearance: Ninja Cat wears a sleek black suit with glowing green eyes, symbolizing stealth and agility. A small, stylish quiver is slung across their back, holding a few throwing stars. Ninja Cat is fluffy and moves with fluid grace, reminiscent of an expert parkour practitioner.
+- Abilities: Ninja Cat can shoot with precision while in mid-air or from behind cover. Fears include being overwhelmed by enemies, while their primary desire is to return the stolen treasure and protect the village.
+
+
+Scene-by-Scene Description:
+
+*Beginning Scene*: Menu button and 3 page short comic of the origin story 
+
+Visuals: Title of the game and "read comic button" and a short comic about how there was a happy community of cats, however they got robbed by the dog's clan and the ninja cat needs to fix the problem.
+
+interactive: Pressing the starting button, and pressing each page to move next. 
+
+
+
+
+*Transition Scene*: Starting button to the real game 
+
+Visual : The ninja cat and starting button
+
+interactive: player press the start button to start the game.
+
+
+
+
+Middle Scene: Stealthy Combat in the Dog Clan's Stronghold
+
+Visuals: The middle section of the game takes place in the Dog Clan’s stronghold. The environment features narrow alleyways, crumbling rooftops, and areas shrouded in shadows. Players must shoot the Dogs that attacks.
+
+
+Level Design: Players must avoid the guard dogs roaming the streets. The path becomes increasingly challenging with more enemies and trickier sequence.
+
+
+Gameplay: 
+    - Players can press the left and right arrow keys to move Ninja Cat Horizontally
+-  Players have to press the spacebar for shooting. 
+    
+
+
+
+*End Scene*: Celebration in the Village or Sad Ending
+
+Visuals: 
+- After successfully defeating several enemies the player will go to the winning scene where player can play again.
+- After failing to defeat the enemies, the player will go to the loosing screen and can play again.
+
+interactive : pressing screen to play again
+
+
+
+Canvas Size: 
+    - The game will be designed for a 600 x 900 pixel canvas, keeping the layout easy to read simple but effective for player movement and enemy visibility.
+    - Keep objects and obstacles scaled appropriately for the smaller screen.
+
+
+
+
+STORY BOARD:
+https://docs.google.com/document/d/1AzH7a-Qucx3UoSvZcQmia3SZDqgbs5WOqoTg2tcOd5Y/edit?usp=sharing 
+
+
+
+REFLECTION:
+Reflecting on the project, I am pleased with the world-building and the balance of narrative and action. The use of comics and the sequential storytelling between gameplay scenes helped create a sense of progression and immersion. However, there are areas where I would like to improve the game, particularly around the variety of levels and enemy types to keep players more engaged as they advance. Adding additional enemy behaviors, such as dogs with specific attack patterns or power-ups, could add depth to the experience. Other than that, The challege that I faced was from the bullet collision and the enemy. Somehow the code did not work and I have no clue how to fix this. However, if the bullet are scattered around everywhere it is possible to win. 
+
+In conclusion, Shooter Cat served as a valuable project that sharpened my skills in character development, level design, and interactive storytelling. I’ve learned the importance of testing and iteration to refine player controls and improve game balance. Moving forward, I hope to expand on this project by introducing more sophisticated mechanics and further developing the narrative to enrich player engagement and satisfaction.
